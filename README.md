@@ -1,2 +1,2 @@
-# ModuleDispatch
-模块解耦
+# 说明
+用户模块解耦，详见demo。
